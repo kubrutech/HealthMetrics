@@ -1,0 +1,41 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "health"
+    ],
+    "companyName": "Kubru Technology, LLC",
+    "enableMultiJS": true,
+    "longName": "Health Metrics",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bticon-b",
+                "name": "BTICON_B",
+                "targetPlatforms": [
+                    "basalt"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/bticon-w",
+                "name": "BTICON_W",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt"
+                ],
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Health Metrics",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "1efd9fbb-7334-459e-bdd1-b9897765e121",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
